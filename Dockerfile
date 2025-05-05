@@ -1,4 +1,3 @@
-#menggunakan base image ubuntu
 From ubuntu:22.04
 
 #Update dan install paket dasar
@@ -11,5 +10,5 @@ iputils-ping \
 procps \
 net-tools
 
-#set Default Shell
+
 CMD ["/bin/bash"]

@@ -1,5 +1,6 @@
 #masuk ke directory, ekstrax file ziptuliskan kode berikut:
 
+
 ```
 docker build -t praktikum-os1234 .
 ```
